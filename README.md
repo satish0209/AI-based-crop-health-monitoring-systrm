@@ -1,1 +1,1 @@
-# AI-based-crop-health-monitoring-systrm
+# AI-based-crop-health-monitoring-system
